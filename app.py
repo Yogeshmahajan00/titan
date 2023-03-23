@@ -22,4 +22,4 @@ def survival():
     else:
         return "<h1 style='color:red'>NOT Survived</h1>"
     
-app.run(debug=True)
+
